@@ -8,8 +8,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="pic/Mobis.jpg" alt="drawing" width="400",align="right">
-<img src="pic/Dacon.jpg" alt="drawing" width="400",align="left">
+<img src="pic/Mobis.jpg" alt="drawing" width="400",align="right"/>
+<img src="pic/Dacon.jpg" alt="drawing" width="400",align="left"/>
 
 
 <!--
