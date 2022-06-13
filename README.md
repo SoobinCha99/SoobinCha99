@@ -7,10 +7,8 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img src="pic/Mobis.jpg" alt="drawing" width="500"/>
 <img src="pic/Dacon.jpg" alt="drawing" width="200"/>
-
-![Mobis](https://user-images.githubusercontent.com/106799978/173291931-e38dd97d-a078-465e-a8a2-b3788ec24ea3.jpg)
-![Dacon](https://user-images.githubusercontent.com/106799978/173291995-55ad34ad-6804-4637-bb24-845220bf7a96.jpg)
 
 <!--
 **SoobinCha99/SoobinCha99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
