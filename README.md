@@ -11,7 +11,7 @@
 <center class="half">
 <img src="pic/Mobis.jpg" alt="drawing" width="500"/>
 <img src="pic/Dacon.jpg" alt="drawing" width="500"/>
-center>
+<center>
 
 
 <!--
