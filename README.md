@@ -8,6 +8,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+# Contact
+- email : chasoobin99@gmail.com / cha.soobin@mobis.co.kr / soobin99@g.skku.edu 
+
 <img src="pic/Mobis.jpg" alt="drawing" width="400">
 <img src="pic/Dacon.jpg" alt="drawing" width="400">
 
