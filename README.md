@@ -9,10 +9,10 @@
 - ⚡ Fun fact: ...
 
 # Contact
-- E-mail : 
-personal : chasoobin99@gmail.com 
-work : cha.soobin@mobis.co.kr 
-school : soobin99@g.skku.edu 
+- E-mail 
+personal : chasoobin99@gmail.com <br> 
+work : cha.soobin@mobis.co.kr <br>
+school : soobin99@g.skku.edu <br>
 
 <img src="pic/Mobis.jpg" alt="drawing" width="400">
 <img src="pic/Dacon.jpg" alt="drawing" width="400">
