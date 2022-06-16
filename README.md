@@ -17,5 +17,5 @@
 Hyundia Mobis.Inc <br>
 <img src="pic/Mobis.jpg" alt="drawing" width="400"> <br>
 Dacon.Io (2021.12 ~ 2022.06) <br>
-<img src="pic/Dacon.jpg" alt="drawing" width="400">
+<img src="pic/Dacon.jpg" alt="drawing" width="400"> <br>
 
