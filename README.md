@@ -8,13 +8,14 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-# Contact
-## E-mail 
+# Contact - email
 - personal : chasoobin99@gmail.com <br> 
 - work : cha.soobin@mobis.co.kr <br>
 - school : soobin99@g.skku.edu <br>
 
 # Business Card 
+Hyundia Mobis.Inc
 <img src="pic/Mobis.jpg" alt="drawing" width="400">
+Dacon.Io (2021.12 ~ 2022.06)
 <img src="pic/Dacon.jpg" alt="drawing" width="400">
 
