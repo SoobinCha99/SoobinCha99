@@ -13,7 +13,7 @@
 - school : soobin99@g.skku.edu <br>
 
 # Business Card 
-Hyundia Mobis.Inc (2022.07.06 ~ 2022.08.26) <br>
+Hyundia Mobis.Inc (2022.06 ~ 2022.08) <br>
 <img src="pic/Mobis.jpg" alt="drawing" width="400"> <br>
 Dacon.Io (2021.12 ~ 2022.06) <br>
 <img src="pic/Dacon.jpg" alt="drawing" width="400"> <br>
